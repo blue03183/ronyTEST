@@ -1,5 +1,6 @@
 <?php
 
+// 주석
 namespace Tests;
 
 use Illuminate\Foundation\Testing\TestCase as BaseTestCase;
